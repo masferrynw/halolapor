@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993368974370",
+    "project_id": "halolapor-ef303",
+    "storage_bucket": "halolapor-ef303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993368974370:android:48ec874f902591a4dbd67b",
+        "android_client_info": {
+          "package_name": "com.kodenatan.halolapor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993368974370-dctpls97bpeo81vp1ng59ha0lic17hu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZzaXUHBsFs6IXO4HJblXOw8FglKziVcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993368974370-dctpls97bpeo81vp1ng59ha0lic17hu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
